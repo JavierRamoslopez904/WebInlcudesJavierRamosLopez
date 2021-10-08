@@ -13,6 +13,11 @@
     
     <div class="container">
     <!--Linkeado con el header.php -->
+
+
+    <?php $mi_pagina="index"; ?>
+
+
       <?php include 'header.php';
       ?>
 

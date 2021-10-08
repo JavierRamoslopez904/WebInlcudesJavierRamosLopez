@@ -13,9 +13,12 @@
  <body>
     <div class="container">
         
+        <!-- Creación de una variable -->
+        <?php $mi_pagina = "villanos";?>
+
         <!-- Linkeado con el header -->
         <?php include 'header.php';?>
-        
+
         <div class="container">
         <!-- Linkeado con el navbar -->
         <?php include 'navbar.php';

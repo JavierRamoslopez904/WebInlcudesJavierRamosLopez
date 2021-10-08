@@ -12,6 +12,10 @@
       </head>
 <body>
     <div class="container">
+
+        <!-- Creación de una variable -->
+         <?php $mi_pagina = "autor"?>
+         
         <!-- Linkeado con el header -->
         <?php include 'header.php';?>
 

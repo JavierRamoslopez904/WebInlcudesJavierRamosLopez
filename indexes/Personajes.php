@@ -12,13 +12,22 @@
       </head>
   <body>
     <div class="container">
+
+         <!-- Creación de variables -->
+        <?php  $mi_pagina = "Personajes";?>
+
         <!-- Linkeado con el header-->
         <?php include 'header.php';?>
+
+        
 
         <!-- Linkeado con el navbar-->
         <div class="container">
         <?php include 'navbar.php';
         ?>
+
+        
+        
         </div>
           <div class="container">
              <div class="row">

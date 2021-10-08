@@ -13,6 +13,9 @@
 <body>
     <div class="container">
       
+        <!-- Creación de una variable-->
+        <?php $mi_pagina = "mapa"?>
+
         <!-- Linkeado con el header -->
         <?php include 'header.php';?>
 
