@@ -1,0 +1,75 @@
+.firstplace{
+    margin-top: 20px;
+    font-family: Brush Script MT;
+    text-align: center;
+    font-size: 3em;
+    color: yellow;
+}
+.Hobbit{
+    text-align: center;
+    font-size: 6em;
+    color: green;
+    font-family:Lucida Sans;
+}
+.polia{
+    margin-top: 10px;
+}
+.saw{
+    margin-top: 15px;
+    text-align: center;
+    margin-left: 20px;
+    color: white;
+}
+.secondplace{
+    margin-top: 10px;
+    font-family: Brush Script MT;
+    text-align: center;
+    font-size: 3em; 
+    color: yellow;
+}
+.platillo{
+    margin-top: 20px;
+    margin-left:5px;
+    width: 500px;
+    height: 300px;
+}
+.platilla{
+    margin-top: 20px;
+    margin-left: 5px;
+    width: 500px;
+    height: 300px;
+}
+.curio{
+    margin-top: 20px;
+    color: white;
+}
+.disney{
+    margin-top: 20px;
+}
+body{
+    background-image: url('https://wallpapercave.com/wp/JokxUUo.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#hojuu:hover{
+    background-color:lightblue;
+}
+.pelea{
+    margin-top: 20px;
+}
+.ajas{
+    margin-top: 50px;
+    color: white;
+}
+.wandy{
+    margin-top: 20px;
+    color: white;
+}
+.orlando{
+    margin-top: 20px;
+}
+.mama{
+    color: white;
+    margin-top: 30px;
+}

@@ -1,0 +1,108 @@
+.evil{
+    text-align: center;
+    font-family: Brush Script MT;
+    color:yellow;
+}
+.dragon{
+    margin-top: 20px;
+    border-radius: 10px;
+    transition:transform 0.6s ;
+    border-radius: 10px;
+}
+.dragon:hover{
+    transform: scale(1.1);
+}
+.azog{
+    border-radius: 10px;
+    transition:transform 0.6s ;
+    border-radius: 10px;
+}
+.azog:hover{
+    transform: scale(1.1);
+}
+.trasgo{
+    border-radius: 10px;
+    margin-top: 20px;
+    transition:transform 0.6s ;
+    border-radius: 10px;
+}
+.trasgo:hover{
+    transform: scale(1.1); 
+}
+.primermain{
+    margin-top: 50px;
+}
+.tercermain{
+    margin-top:30px;
+}
+.hobbit{
+    text-align: center;
+    font-size: 6em;
+}
+.villanos{
+    text-align: center;
+    font-family: Brush Script MT;
+    color:yellow;
+}
+.bolgo{
+    margin-top: 10px;
+    border-radius: 10px;
+}
+.huargo{
+   
+    border-radius: 10px;
+}
+.trasgos{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.gollum{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.araña{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.octavo{
+    margin-top: 15px;
+    color: white;
+}
+.smigol{
+    margin-top: 35px;
+}
+.spider{
+    margin-top: 35px;
+    color: white;
+}
+.lol{
+    margin-top: 35px;
+    color: white;
+}
+.smaug{
+    margin-top: 25px;
+    color: white;
+}
+.gordo{
+    margin-top: 25px;
+    color: white;
+}
+body{
+    background-image:url('https://wallpapercave.com/wp/JokxUUo.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.azorun{
+    color: white;
+}
+.loboo{
+    color: white;
+}
+#hojaa:hover{
+    background-color: lightblue;
+}
+.hobbit{
+    color: green;
+    font-family:Lucida Sans;
+}

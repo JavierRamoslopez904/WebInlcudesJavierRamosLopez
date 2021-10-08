@@ -1,0 +1,108 @@
+.letra{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.Hobbit{
+    text-align: center;
+    font-size: 6em;
+}
+.maposo{
+    transition:transform 0.6s ;
+    border-radius: 10px;
+}
+.maposo:hover{
+    transform: scale(1.9);
+}
+.subraya{
+    margin-left: 50px;
+
+}
+.margenn{
+    margin-top: 70px;
+}
+.letraroja{
+    color: red;
+}
+.letra1roja{
+    color: red;
+}
+.jotaka{
+    margin-top: 20px;
+    color: white;
+
+}
+.polo{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+}
+.movil{
+    text-align: center;
+    margin-top: 25px;
+    font-family: Brush Script MT;
+    color:yellow;
+}
+.moliv{
+    margin-top: 20px;
+    transition:transform 0.6s ;
+    border-radius: 10px;
+}
+.moliv:hover{
+    transform: scale(1.1);
+}
+.alonso{
+    text-align: center;
+    margin-top: 15px;
+    font-family: Brush Script MT;
+    color: yellow;
+}
+.kolo{
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 510px;
+    height: 450px;
+}
+.julo{
+    margin-left: 120px;
+    margin-top: 20px;
+    color: white;
+}
+.thoron{
+    padding: 10px;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+    height: 450px;
+}
+.legolos{
+    margin-left: 15px;
+    margin-top: 15px;
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+    height: 450px;
+}
+.eclick{
+    text-align: center;
+    color: white;
+}
+.mapeado{
+    margin-top: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 400px;
+}
+body{
+    background-image: url('https://wallpapercave.com/wp/JokxUUo.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+#hojii:hover{
+    background-color: lightblue;
+} 

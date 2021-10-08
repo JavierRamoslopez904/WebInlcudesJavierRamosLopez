@@ -1,0 +1,119 @@
+.video1{
+    width: 350px;
+    height:340px;
+    padding-right: 30px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    
+}
+.video2{
+    width: 320px;
+    height:340px;
+    margin-top: 20px;
+}
+.video3{
+    width: 320px;
+    height:340px;
+    margin-top: 20px;
+}
+#telefono{
+    font-size:x-large;
+    color:white;
+    text-align: center;
+}
+.Hobbit{
+    text-align: center;
+    font-size: 6em;
+}
+#centro{
+    text-align: center;
+    margin-top: 50px;
+    font-family: Brush Script MT;
+    color:yellow;
+}
+#imagenes{
+    border-radius: 10px;
+    padding: 10px;
+}
+.redes{
+    margin-top:50px;
+    color: white;
+    margin-left: 45px;
+}
+#espacio{
+    margin-top:50px;
+    color: white;
+    text-align: center;
+}
+.navegacion{
+    size: 4em;
+}
+body{
+    background-image:url('https://www.mactualidad.com/wp-content/uploads/2013/06/fondo-pantalla-mac-10.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#hojo{
+    color:black;
+    font-size: xx-large;
+}
+#hojo:hover{
+    background-color:lightblue;
+}
+.cuadrao{
+    margin-top: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 510px;
+    height: 450px;
+    background-color: black;
+}
+.instaa{
+    margin-left: 200px;
+}
+.formulario {
+    width: 400px;
+    background: #24303c;
+    padding: 30px;
+    margin: auto;
+    margin-top: 30px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+}
+.muxho{
+    font-size: 22px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+#control{
+    width: 100%;
+    background:#24303c;
+    padding: 40px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid;
+    font-weight: 'calibri';
+    font-size: 18px;
+    text-align: center;
+}
+.boton{
+    width: 300px;
+    background: #1f53c5;
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px;
+    font-size: 16px;
+}
+.redes::first-letter{
+    font-size:1.2em;
+}
+#espacio::first-letter{
+    font-size: 1.4em;
+}
+#rss{
+    color: white;
+}

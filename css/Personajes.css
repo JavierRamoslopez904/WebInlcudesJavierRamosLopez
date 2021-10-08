@@ -1,0 +1,128 @@
+.hobbit{
+    text-align: center;
+    font-size: 6em;
+    color: green;
+    font-family:Lucida Sans;
+}
+.separacion{
+    text-align: center;
+    font-family: Brush Script MT;
+    color:yellow;
+}
+.bolbo{
+    transition:transform 0.6s ;
+    border-radius: 10px;
+}
+
+.bolbo:hover{
+    transform: scale(1.1);
+}
+.wizard{
+    margin-top: 20px;
+    transition: transform 0.6s;
+    border-radius: 10px;
+}
+.wizard:hover{
+    transform: scale(1.1);
+}
+
+.margin{
+    margin-top: 20px;
+    color: white;
+}
+.thorin{
+    margin-top: 20px;
+    transition: transform 0.6s;
+    border-radius: 10px;
+}
+.thorin:hover{
+    transform: scale(1.1);
+}
+.legolas{
+    transition: transform 0.6s;
+    border-radius:10px;
+}
+.legolas:hover{
+    transform: scale(1.1);
+}
+.bardo{
+    transition: transform 0.6s;
+    border-radius: 10px;
+}
+.bardo:hover{
+    transform: scale(1.1);
+}
+.thrain{
+    margin-top:20px;
+    font-size: x-large;
+    color: white;
+}
+.espacio{
+    text-align: center;
+    font-family: Brush Script MT;
+    color: darkblue;
+}
+.kili{
+    margin-top: 20px;
+    border-radius: 10px;
+
+}
+.full{
+    margin-top: 20px;
+    color: white;
+}
+.dwalin{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.hijo{
+    margin-top:20px;
+    color: white;
+}
+.dain{
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.daini{
+    margin-top: 20px;
+    color: white;
+}
+.fili{
+    border-radius: 10px;
+}
+.balin{
+    border-radius: 10px;
+}
+.tauriel{
+    border-radius: 10px;
+}
+body{
+    background-image: url('https://wallpapercave.com/wp/JokxUUo.jpg');
+    background-attachment:fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.eretu{
+    color: white;
+}
+.noeretu{
+    color: white;
+}
+.calabardo{
+    color: white;
+}
+.kilione{
+    color:white;
+}
+.barbas{
+    color: white;
+}
+.tau{
+    color: white;
+}
+#hojoo:hover{
+    background-color: lightblue;
+}
+.espacio{
+    color:yellow;
+}

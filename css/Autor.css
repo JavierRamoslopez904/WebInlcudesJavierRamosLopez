@@ -1,0 +1,86 @@
+.tolkien{
+    margin-top: 30px;
+    margin-left: 10px;
+}
+.Hobbit{
+    text-align: center;
+    font-size: 6em;
+    color: green;
+    font-family:Lucida Sans;
+}
+.erelop{
+    margin-top: 30px;
+    color: white;
+}
+.jolo{
+    color:darkblue;
+}
+.bandera{
+    margin-top: 15px;
+}
+.sitio{
+    margin-top: 15px;
+    margin-left: -36px;
+}
+.sajonia{
+    margin-top: 15px;
+    margin-left: -70px;
+}
+.mas{
+    margin-top: 25px;
+    margin-left: 25px;
+}
+.texto{
+    text-align: center;
+    font-size: 3em;
+    font-family: Brush Script MT;
+    color:yellow;
+}
+#libros{
+    margin-top: 20px;
+}
+#enter{
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 3em;
+    color: white;
+}
+#enter1{
+    margin-left: 40px;
+    margin-top: 20px;
+    font-size: 3em;
+    color: white;
+}
+.tolki{
+    margin-top: 10px;
+}
+#enter2{
+    margin-left: 15px;
+    margin-top: 20px;
+    font-size: 3em;
+    color: white;
+}
+.click{
+    text-align: center;
+    color:white;
+}
+body{
+    background-image: url('https://wallpapercave.com/wp/JokxUUo.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#hojee:hover{
+    background-color:lightblue;
+}
+.blanchito{
+    color: white;
+}
+.blachito{
+    color:white;
+}
+.lolew{
+    color:white;
+}
+    
+    
